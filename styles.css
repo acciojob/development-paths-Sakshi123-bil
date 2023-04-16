@@ -1,1 +1,5 @@
 /*  your css code here. If applicable */
+ .heading{
+            border-bottom: 1px solid rgb(224, 213, 213);
+            padding-bottom: 10px;
+        }
